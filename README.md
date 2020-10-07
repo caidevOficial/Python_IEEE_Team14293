@@ -19,13 +19,13 @@
 <table>
         <tbody>
             <tr>
-                <!--Cata-->
+               
                 <td>
                     <img class="circular" alt="Cata" src="https://avatars1.githubusercontent.com/u/47184235?s=400&u=76729918991b33bac577f82bba93b89e0b4a48ae&v=4"
                     width="170px" height="170px" /> 
                     <center><h2>Cata Heredia</h2></center>
                 </td>
-                 <!--Facu-->
+                
                 <td>
                     <img class="circular" alt="Facu" src="https://avatars1.githubusercontent.com/u/12877139?s=400&u=d369ee24466653d9bbeeb9654930e3ff1c67b76a&v=4"
                     width="170px" height="170px" /> 
@@ -44,7 +44,7 @@
                 </td>
                 <td><a href="https://github.com/catahache/">GitHub Cata</a></td>
 
-                <!--Facu-->
+              
                 <td><a href="https://github.com/caidevOficial/" target="_blank">
                         <img alt="GitHub"
                             src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
@@ -54,14 +54,14 @@
             </tr>
 
             <tr>
-                <!--Cata-->
+              
                 <td><a href="https://www.linkedin.com/in/catalina-fernandez-heredia/" target="_blank">
                     </a><img alt="LinkedIn"
                         src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
                         width="80px" height="25px" /></td>
                 <td><a href="https://www.linkedin.com/in/catalina-fernandez-heredia/"><b>LinkedIn</b></a></td>
 
-                <!--Facu-->
+               
                 <td><a href="https://www.linkedin.com/in/facundo-falcone/" target="_blank">
                     </a><img alt="LinkedIn"
                         src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
