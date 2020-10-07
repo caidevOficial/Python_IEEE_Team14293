@@ -1,3 +1,4 @@
+
 ## Desarrollo web Fullstack con Java - PoloTic Misiones.
 <a href="https://github.com/caidevOficial/tp_laboratorio_1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" />
@@ -20,25 +21,36 @@
             <tr>
                 <!--Cata-->
                 <td>
-                    <img alt="Cata" src="https://avatars1.githubusercontent.com/u/47184235?s=400&u=76729918991b33bac577f82bba93b89e0b4a48ae&v=4"
-                    width="200px" height="200px" /> 
+                    <img class="circular" alt="Cata" src="https://avatars1.githubusercontent.com/u/47184235?s=400&u=76729918991b33bac577f82bba93b89e0b4a48ae&v=4"
+                    width="170px" height="170px" /> 
+                    <center><h2>Cata Heredia</h2></center>
                 </td>
-                <h2>Cata Heredia</h2>
-                <td><a href="https://github.com/catahache/" target="_blank">
+                 <!--Facu-->
+                <td>
+                    <img class="circular" alt="Facu" src="https://avatars1.githubusercontent.com/u/12877139?s=400&u=d369ee24466653d9bbeeb9654930e3ff1c67b76a&v=4"
+                    width="170px" height="170px" /> 
+                    <center><h2>Facu Falcone</h2></center>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <table>
+        <tbody>
+            <tr>
+               <td><a href="https://github.com/catahache/" target="_blank">
                         <img alt="GitHub"
                             src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
                             width="80px" height="25px" />
                 </td>
-                <td><a href="https://github.com/catahache/">GitHub Cata Heredia</a></td>
+                <td><a href="https://github.com/catahache/">GitHub Cata</a></td>
 
                 <!--Facu-->
-                <h2>Facu Falcone</h2>
                 <td><a href="https://github.com/caidevOficial/" target="_blank">
                         <img alt="GitHub"
                             src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
                             width="80px" height="25px" />
                 </td>
-                <td><a href="https://github.com/caidevOficial/">GitHub Facu Falcone</a></td>
+                <td><a href="https://github.com/caidevOficial/">GitHub Facu</a></td>
             </tr>
 
             <tr>
