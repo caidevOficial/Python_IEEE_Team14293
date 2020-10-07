@@ -1,5 +1,20 @@
-## Hola
+## Desarrollo web Fullstack con Java - PoloTic Misiones.
+<a href="https://github.com/caidevOficial/tp_laboratorio_1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" />
+</a></br></br>
 
+## Tecnologías usadas al momento.
+<table>
+   <tbody>
+       <tr>
+           <td><a href="https://www.oracle.com/technetwork/es/java/javase/downloads/index.html/" target="_blank">
+                   <img alt="Java 8" src="https://github.com/caidevOficial/Logos/blob/master/java.png" width="25px" height="25px" /></td>
+           <td><a href="https://www.oracle.com/technetwork/es/java/javase/downloads/index.html/">Java</a></td>
+       </tr>
+   </tbody>
+</table>
+    
+## Donde encontrarme:
 <table>
         <tbody>
             <tr>
