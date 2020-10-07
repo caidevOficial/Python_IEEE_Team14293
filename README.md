@@ -1,4 +1,4 @@
-### Curso de Python - IEEE - Equipo #14293.
+# Curso de Python - IEEE - Equipo N°14293. 👨‍💻 👩‍💻
 <!--<a href="https://github.com/caidevOficial/tp_laboratorio_1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" />
 </a></br></br>-->
@@ -14,7 +14,7 @@
    </tbody>
 </table>
     
-## Donde encontraros: 
+## Donde encontraros: 🌎
 |<img class="circular" alt="Cata" src="https://avatars1.githubusercontent.com/u/47184235?s=400&u=76729918991b33bac577f82bba93b89e0b4a48ae&v=4" width="80px" height="80px" />|<img class="circular" alt="Facu" src="https://avatars1.githubusercontent.com/u/12877139?s=400&u=d369ee24466653d9bbeeb9654930e3ff1c67b76a&v=4" width="80px" height="80px" />|
 |------------|------------|
 |👸 Cata Heredia|🤴 Facu Falcone|
