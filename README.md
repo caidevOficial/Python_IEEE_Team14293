@@ -14,6 +14,9 @@
    </tbody>
 </table>
     
+## Licencia 📄
+Este proyecto está bajo la Licencia [GNU GENERAL PUBLIC LICENSE v3.0] - mira el archivo [LICENSE.md](LICENSE) para detalles
+
 ## Donde encontraros: 🌎
 |<img class="circular" alt="Cata" src="https://avatars1.githubusercontent.com/u/47184235?s=400&u=76729918991b33bac577f82bba93b89e0b4a48ae&v=4" width="80px" height="80px" />|<img class="circular" alt="Facu" src="https://avatars1.githubusercontent.com/u/12877139?s=400&u=d369ee24466653d9bbeeb9654930e3ff1c67b76a&v=4" width="80px" height="80px" />|
 |------------|------------|
