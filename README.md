@@ -1,4 +1,4 @@
-## Curso de Python - IEEE - Equipo #14293.
+### Curso de Python - IEEE - Equipo #14293.
 <!--<a href="https://github.com/caidevOficial/tp_laboratorio_1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" />
 </a></br></br>-->
