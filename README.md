@@ -1,9 +1,8 @@
-<html>
-    <head>
+
        <link rel="stylesheet" type="text/css" href="style.css" />
         <!--final de Estilos-->
-      </head>
-<body>
+
+
 
     <table>
         <tbody>
@@ -56,7 +55,3 @@
             </tr>
         </tbody>
     </table>
-
-</body>
-
-</html>
