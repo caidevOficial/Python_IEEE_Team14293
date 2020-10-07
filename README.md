@@ -20,7 +20,7 @@
             <tr>
                 <!--Cata-->
                 <td>
-                    <img class="circular" alt="Cata" src="https://avatars1.githubusercontent.com/u/47184235?s=400&u=76729918991b33bac577f82bba93b89e0b4a48ae&v=4"
+                    <img alt="Cata" src="https://avatars1.githubusercontent.com/u/47184235?s=400&u=76729918991b33bac577f82bba93b89e0b4a48ae&v=4"
                     width="200px" height="200px" /> 
                 </td>
                 <h2>Cata Heredia</h2>
