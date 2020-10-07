@@ -7,14 +7,14 @@
 <table>
    <tbody>
        <tr>
-           <td><a href="https://www.oracle.com/technetwork/es/java/javase/downloads/index.html/" target="_blank">
-                   <img alt="Java 8" src="https://github.com/caidevOficial/Logos/blob/master/java.png" width="25px" height="25px" /></td>
-           <td><a href="https://www.oracle.com/technetwork/es/java/javase/downloads/index.html/">Java</a></td>
+           <td><a href="" target="_blank">
+                   <img alt="Python" src="https://github.com/caidevOficial/Logos/blob/master/py_logo1_1.png" width="50px" height="50px" /></td>
+           <td><a href="https://www.python.org/downloads/">Python</a></td>
        </tr>
    </tbody>
 </table>
     
-## Donde encontrarme:
+## Donde encontrarnos:
 <table>
     <tbody>
       <tr>
