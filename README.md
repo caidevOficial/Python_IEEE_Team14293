@@ -1,9 +1,4 @@
 
-       <link rel="stylesheet" type="text/css" href="style.css" />
-        <!--final de Estilos-->
-
-
-
     <table>
         <tbody>
             <tr>
