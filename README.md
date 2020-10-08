@@ -4,9 +4,9 @@
 </a></br></br>-->
 
 ```python
-def courseStart:
-  message = "Growing up Together!"
-return message 
+def courseStart():
+    message = "Growing up Together!"
+    return message
 ```
 
 ## Tecnologías usadas al momento. 📌
