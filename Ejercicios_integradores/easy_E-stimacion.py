@@ -14,7 +14,6 @@ def factorial(number):
     if number <= 2:
         return number
     else:
-        #number = long (number)
         facto = (number * factorial(number-1))
         return facto
 
@@ -25,4 +24,5 @@ def e_stimation():
         eValue += (1/factorial(value))
     print(f"Euler 20 terminos: {eValue}")
 
+# Test
 e_stimation()
