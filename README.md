@@ -1,7 +1,16 @@
+|<img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/ieee-cs.png" width="235px" height="110px" />|
+|--|
+
 # Curso de Python - IEEE - Equipo N°14293. 👩‍💻 👨‍💻
 <!--<a href="https://github.com/caidevOficial/tp_laboratorio_1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" />
 </a></br></br>-->
+
+```python
+def startLearning():
+    message = "Growing up Together!"
+    print(message)
+```
 
 ## Tecnologías usadas al momento. 📌
 <table>
