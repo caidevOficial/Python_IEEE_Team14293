@@ -3,6 +3,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" />
 </a></br></br>-->
 
+|<img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/ieee-cs.png" width="120px" height="60px" />|
+|--|
+
 ```python
 def courseStart():
     message = "Growing up Together!"
