@@ -23,9 +23,6 @@ def showTokens(number):
             atLeastOne = True
     return atLeastOne
     
-# Test [B]
-#mostrarFichas(3)
-
 # Test Area
 # Funcion [B]
-#showTokens(3)
+showTokens(3)

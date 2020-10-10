@@ -28,7 +28,6 @@ def testA(var):
     print(f"Cantidad de fichas con el {var}: {tokens}")
 
 # TEST AREA
-
 # Funcion [A]
-# testA(4)
+testA(4)
 
