@@ -17,8 +17,10 @@ elif(nota>69 and nota<80):
     nota = "C"
 elif(nota>79 and nota<90):
     nota = "B"
-else:
+elif (nota>89 and nota<101):
     nota = "A"
+else:
+    nota = "incorrecta: [0-100]"
 
 print("La nota es: ")
 print(nota)
