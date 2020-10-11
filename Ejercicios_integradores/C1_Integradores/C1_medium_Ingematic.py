@@ -6,7 +6,7 @@
 
 def ingematic():
     message = ""
-    for i in range(1,100):
+    for i in range(1,101):
         message = "" # en cada iteracion lo seteo vacío
         if(i%3==0):
             message = "N3"

@@ -11,14 +11,22 @@
 
 def calificationAverage(note1, note2, note3):
     sumNotes = note1 + note2 + note3
+    message = "Desaprobado"
+    if(sumNotes > 3):
+        message = "Aprobado"
+    print(message)
     return sumNotes/3
 
 def calificationAverageImportance(note1, note2, note3):
     sumNotes = (note1*0.2)+(note2*0.5)+(note3*0.3)
+    message = "Desaprobado"
+    if(sumNotes > 3):
+        message = "Aprobado"
+    print(message)
     return sumNotes
 
 # Pruebas de código
 finalNote1 = calificationAverage(10,1,10)
-print(f"Promedio: {finalNote1}")
+print(f"Promedio C.A: {finalNote1}")
 finalNote1 = calificationAverageImportance(10,1,10)
-print(f"Promedio: {finalNote1}")
+print(f"Promedio C.A.I: {finalNote1}")

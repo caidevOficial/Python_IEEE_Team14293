@@ -6,12 +6,10 @@
 
 # Defino las funciones
 def userAndPass(user,password):
-    userSetted = "Juan"
-    passSetted = "12345_"
-    if(user == userSetted and password == passSetted):
-        return True
-    else:
-        return False
+    success = False
+    if((user == "Juan" and password == "12345_") or (user=="Pablo" and password=="xDcFvGbHn")):
+        success = True
+    return success
 
 def checkCredentials(boolean,user):
     if(boolean):
@@ -20,7 +18,11 @@ def checkCredentials(boolean,user):
         print(f"You're not allowed here, {user}!")
 
 # Chequeo datos
+# Caso de Suceso
 canAccess = userAndPass("Juan","12345_")
 checkCredentials(canAccess,"Juan")
 canAccess = userAndPass("Pablo","xDcFvGbHn")
 checkCredentials(canAccess,"Pablo")
+# Caso de Error
+canAccess = userAndPass("Admin","root")
+checkCredentials(canAccess,"Admin")
