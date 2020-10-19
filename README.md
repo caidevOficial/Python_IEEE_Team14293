@@ -1,4 +1,4 @@
-|<img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/ieee-cs.png" width="235px" height="110px" />|
+|<img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/ieee-cs.png" width="235px" height="110px" />|
 |--|
 
 # Curso de Python - IEEE - Equipo N°14293. 👩‍💻 👨‍💻
@@ -17,7 +17,7 @@ def startLearning():
    <tbody>
        <tr>
            <td><a href="https://www.python.org/downloads/" target="_blank">
-                   <img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/py_logo1_1.png" width="50px" height="50px" /></td>
+                   <img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/py_logo1_1.png" width="50px" height="50px" /></td>
            <td><a href="https://www.python.org/downloads/">Python</a></td>
        </tr>
    </tbody>
