@@ -6,18 +6,20 @@
 # agrege un nuevo nombre y legajo a lo que ya había sido almacenado en el diccionario.
 
 def chargeDictionary():
+    dic = {}
     for ite in range(0,3):
         key = int(input(f"Ingrese {ite+1}° legajo: "))
-        content = input("Nombre: ")
-        if key not in dic.values():
-            # TODO arreglar el if, si existe, lo agrega igual, tapando el contenido anterior
-            dic[key] = content
-        else:
+        if key in dic.values():
             print("Ya existe esa key.")
-    print(dic)
+        else:
+            content = input("Nombre: ")
+            dic[key] = content
+            # TODO arreglar el if, si existe, lo agrega igual, tapando el contenido anterior
+    return dic
 
 # Test
-dic = {}
-print(dic)
+diccionario = {}
+print(diccionario)
 
-chargeDictionary()
+diccionario = chargeDictionary()
+print(diccionario)
