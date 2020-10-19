@@ -9,7 +9,7 @@
 # Tips
 # n!=1⋅2⋅3⋅ ... ⋅n .
 
-# Defino funcion factorial
+# Define the factorial
 def factorial(number):
     if number <= 2:
         return number
@@ -17,7 +17,7 @@ def factorial(number):
         facto = (number * factorial(number-1))
         return facto
 
-# Defino funcion numero de Euler
+# Define the function of the Euler's number
 def e_stimation():
     eValue = 1
     for value in range(1,21):
