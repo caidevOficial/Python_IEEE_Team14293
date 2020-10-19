@@ -19,7 +19,6 @@ def drLothar():
         else:
             number = (number * 3) + 1
         stepsCounter += 1
-    print(stepsCounter)
     return stepsCounter
 
 # Test
