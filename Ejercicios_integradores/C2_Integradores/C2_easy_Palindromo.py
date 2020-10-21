@@ -5,6 +5,7 @@
 # palindromo( "Neuquén" ) => False
 
 def esPalindromo(cadena):
+    # retorna true si es capicua
     cadena1 = cadena[::-1].lower()
     if(cadena1 == str(cadena).lower()):
         return True
