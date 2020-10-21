@@ -19,7 +19,6 @@
 P = ['B', 'B', 'B', 'B', 'B', 'N', 'N', 'N', 'N', 'N', 'N', 'N', 'N']
 
 def naranjasDeMiguel(cadena):
-    cadena = list(cadena)
     naranja = 0
     banana = 0
     for fruta in cadena:
@@ -27,13 +26,13 @@ def naranjasDeMiguel(cadena):
             naranja+=1
         elif(fruta=='B'):
             banana+=1
-    for fruta in range(0,banana+naranja):
-        if(banana>1):
-            banana-=2
-            if(naranja>1):
-                naranja-=1
-    print(f"Bananas: {banana}")
-    print(f"Naranjas: {naranja}")
+    if(banana>1):
+        banana-=2
+    else:
+        banana -= 1
+    if(naranja>1):
+        naranja-=1
+    return str(banana)+" "+str(naranja)
 
 # Test
-naranjasDeMiguel("BBBBBBBBBBBBBBBBBBBBNNNNNNNN")
+print(naranjasDeMiguel("BB"))

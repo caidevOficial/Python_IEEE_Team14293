@@ -38,5 +38,5 @@ def combinacion(precio,number):
 
 # Test
 list = []
-list = combinacion(precios,16)
+list = combinacion(precios,8)
 print(list)
