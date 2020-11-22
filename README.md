@@ -1,7 +1,7 @@
 |<img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/ieee-cs.png" width="235px" height="110px" />|<img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/logo_oficial_itba_ieee.png" width="235px" height="80px" />|
 |--|--|
 
-# Curso de Python - IEEE - Equipo N°14293. 👩‍💻 👨‍💻
+# Python Course - IEEE - Team N°14293. 👩‍💻 👨‍💻
 <!--<a href="https://github.com/caidevOficial/tp_laboratorio_1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" />
 </a></br></br>-->
@@ -12,7 +12,7 @@ def startLearning():
     print(message)
 ```
 
-## Tecnologías usadas al momento. 📌
+## Technologies used. 📌
 <table>
    <tbody>
        <tr>
@@ -23,10 +23,10 @@ def startLearning():
    </tbody>
 </table>
     
-## Licencia 📄
-Este proyecto está bajo la Licencia [GNU GENERAL PUBLIC LICENSE v3.0] - mira el archivo [LICENSE.md](LICENSE) para detalles
+## License 📄
+This proyect is under license [GNU GENERAL PUBLIC LICENSE v3.0] - Read the file [LICENSE.md](LICENSE) for details
 
-## Donde encontraros: 🌎
+## Where find us: 🌎
 |<img class="circular" alt="Cata" src="https://avatars1.githubusercontent.com/u/47184235?s=400&u=76729918991b33bac577f82bba93b89e0b4a48ae&v=4" width="80px" height="80px" />|<img class="circular" alt="Facu" src="https://avatars1.githubusercontent.com/u/12877139?s=400&u=d369ee24466653d9bbeeb9654930e3ff1c67b76a&v=4" width="80px" height="80px" />|
 |------------|------------|
 |👸 Cata Heredia|🤴 Facu Falcone|
