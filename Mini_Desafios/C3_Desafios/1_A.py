@@ -16,13 +16,13 @@ def goalDifference(goalFav, goalCon):
 
 def setGoalDifference():
     equiposDict = rd.to_dict("records")
-    print(equiposDict)
     key = "Diferencia"
     goles_diferencia = 0
     for equipo in equiposDict:
         goles_diferencia = goalDifference(equipo["Goles a favor"], equipo["Goles en contra"])
         equipo[key] = goles_diferencia
-    print(list(equiposDict))
+    df = pd.DataFrame(equiposDict)
+    print((df))
 
 # Test
 setGoalDifference()
