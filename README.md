@@ -13,15 +13,9 @@ def startLearning():
 ```
 
 ## Technologies used. 📌
-<table>
-   <tbody>
-       <tr>
-           <td><a href="https://www.python.org/downloads/" target="_blank">
-                   <img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/py_logo1_1.png" width="50px" height="50px" /></td>
-           <td><a href="https://www.python.org/downloads/">Python</a></td>
-       </tr>
-   </tbody>
-</table>
+
+|<img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/py_logo1_1.png" width="50px" height="50px" />|<a href="https://www.python.org/downloads/">Python</a>|
+|----|----|
     
 ## License 📄
 This proyect is under license [GNU GENERAL PUBLIC LICENSE v3.0] - Read the file [LICENSE.md](LICENSE) for details
