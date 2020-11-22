@@ -1,4 +1,4 @@
-|<img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/ieee-cs.png" width="235px" height="110px" />|<img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/logo_oficial_itba_ieee.png" width="235px" height="80px" />|
+|<img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/ieee-cs.png" width="250px" height="110px" />|<img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/logo_oficial_itba_ieee.png" width="300px" height="80px" />|
 |--|--|
 
 # Python Course - IEEE - Team N°14293. 👩‍💻 👨‍💻
