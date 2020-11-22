@@ -8,5 +8,5 @@ def fibonacciCalculusRec(n):
         return (fibonacciCalculusRec(n-1) + fibonacciCalculusRec(n-2))
 
 # Test
-numero = fibonacciCalculusRec(12)
+numero = fibonacciCalculusRec(10)
 print(numero)
