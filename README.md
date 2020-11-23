@@ -20,7 +20,7 @@ def startLearning():
 ## License 📄
 This proyect is under license [GNU GENERAL PUBLIC LICENSE v3.0] - Read the file [LICENSE.md](LICENSE) for details
 
-## Where find us: 🌎
+## Where to find us: 🌎
 |<img class="circular" alt="Cata" src="https://avatars1.githubusercontent.com/u/47184235?s=400&u=76729918991b33bac577f82bba93b89e0b4a48ae&v=4" width="80px" height="80px" />|<img class="circular" alt="Facu" src="https://avatars1.githubusercontent.com/u/12877139?s=400&u=d369ee24466653d9bbeeb9654930e3ff1c67b76a&v=4" width="80px" height="80px" />|
 |------------|------------|
 |👸 Cata Heredia|🤴 Facu Falcone|
