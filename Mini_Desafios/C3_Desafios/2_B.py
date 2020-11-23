@@ -17,8 +17,8 @@ def makeOveral2(df,index):
     student = df.loc[index]
     sum_notes = int(student["Quimica"]) + int(student["Matematica"]) + int(student["Fisica"])
     overall = sum_notes/3
-    print(overall)
     return overall
 
 # Test
-makeOveral2(rd,2)
+overall = makeOveral2(rd,1)
+print(overall)

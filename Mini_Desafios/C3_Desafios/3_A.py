@@ -6,9 +6,10 @@ import pandas as pd
 rd = pd.read_excel("Datos.xlsx")
 
 def aprobadosMatematica():
-    aprobados = rd[rd["Matematica"]>=4]
+    aprobados = rd[rd["Matematica"]>=6]
     promedios = (aprobados["Matematica"] + aprobados["Quimica"] + aprobados["Fisica"])/3
-    print(promedios)
+    prom_gral = sum(promedios)/len(promedios)
+    print(prom_gral)
 
 # Test
 aprobadosMatematica()
