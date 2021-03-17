@@ -1,6 +1,12 @@
-|<img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/ieee-cs.png" width="250px" height="110px" />|<img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/logo_oficial_itba_ieee.png" width="300px" height="80px" />|
-|--|--|
-
+<table>
+  <tr>
+    <td><img alt="IEEE" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/ieee-cs.png" height="110px" /></td>
+    <td><img alt="ITBA" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/logo_oficial_itba_ieee.png" height="112px" /></td>
+    <td><img alt="Python" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg?raw=true" height="112px" /></td>
+  </tr>
+  </table>
+  </br>
+  
 # Python Course - IEEE - Team N°14293. 👩‍💻 👨‍💻
 <!--<a href="https://github.com/caidevOficial/tp_laboratorio_1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=caidevOficial&show_icons=true&theme=tokyonight" />
