@@ -5,7 +5,7 @@ pares = []
 
 def setOcurrences(caracteres,contenido):
     for linea in contenido:
-        for caracter in caracteres:
+        for caracter in linea:
             if caracter not in caracteres:
                 caracteres[caracter] = 1
             else:
@@ -34,5 +34,6 @@ def AnalisisIdiomas(caracteres,contenido,pares):
     
 
 # Test //TODO arreglar
-AnalisisIdiomas(caracteres,contenido,pares)
-file.close()
+if __name__ == "__main__":
+    AnalisisIdiomas(caracteres,contenido,pares)
+    file.close()
