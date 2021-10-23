@@ -1,12 +1,18 @@
 <table>
   <tr>
-    <td><img alt="IEEE" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/ieee-cs.png" height="110px" /></td>
-    <td><img alt="ITBA" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/logo_oficial_itba_ieee.png" height="112px" /></td>
+    <td><img alt="IEEE" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/ieee-cs.png?raw=true" height="110px" /></td>
+    <td><img alt="ITBA" src="https://github.com/caidevOficial/Logos/blob/master/Instituciones/logo_oficial_itba_ieee.png?raw=true" height="112px" /></td>
     <td><img alt="Python" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg?raw=true" height="112px" /></td>
   </tr>
   </table>
   </br>
-  
+    
+![](https://hit.yhype.me/github/profile?user_id=12877139)
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=caidevoficial&label=Profile%20views&color=0e75b6&style=plastic" alt="caidevoficial" />
+</p>
+
 # Python Course - IEEE - Team N°14293. 👩‍💻 👨‍💻
 
 ```python
@@ -17,7 +23,7 @@ def startLearning():
 
 ## Technologies used. 📌
 
-|<img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/py_logo1_1.png" width="50px" height="50px" />|<a href="https://www.python.org/downloads/">Python</a>|
+|<img alt="Pyhton" src="https://github.com/caidevOficial/Logos/blob/master/Lenguajes/py_logo1_1.png?raw=true" width="50px" height="50px" />|<a href="https://www.python.org/downloads/">Python</a>|
 |----|----|
     
 ## License 📄
